@@ -12,8 +12,8 @@ let biggest = YingYangBiggest(frame: .zero)
 ```
 ```
 view.addSubview(small.setup(mainView: view, rect: CGRect(x: 100, y: 50, width: 200.0, height: 200.0), duration: 3))
-view.addSubview(bigger.setup(mainView: view, rect: CGRect(x: 100, y: 350, width: 200.0, height: 200.0), duration: 5))
-view.addSubview(biggest.setup(mainView: view, rect: CGRect(x: 100, y: 650, width: 200.0, height: 200.0), duration: 7))  
+view.addSubview(bigger.setup(mainView: view, rect: CGRect(x: 100, y: 300, width: 200.0, height: 200.0), duration: 5))
+view.addSubview(biggest.setup(mainView: view, rect: CGRect(x: 100, y: 600, width: 200.0, height: 200.0), duration: 7))  
 ```
 
 # Upcoming Updates - hopefully
