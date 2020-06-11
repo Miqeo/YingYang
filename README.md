@@ -5,6 +5,7 @@ It's an easy to use and implement animation for swift 4/5 made with Bezier paths
 
 # Usage
 The example beneath shows how to implement three different sizes of yingyang.
+Add the Ying.swift file to your project. 
 ```
 let small = YingYang(frame: .zero)
 let bigger = YingYangBigger(frame: .zero)
